@@ -1,5 +1,442 @@
-### Welcome to your project!
 
-- Brush up on Markdown: http://daringfireball.net/projects/markdown/basics
-- Learn about Penflip: [penflip.com/help](http://www.penflip.com/help)
-- Talk to a person: support@penflip.com
+Fer un vídeo
+===========
+
+El vídeo de curta durada ocupa una part important en la nostra vida quotidiana i també en l’àmbit social. Vols fer una pràctica compartida de vídeo creatiu? Analitza imatges, reflexiona sobre el que expressen i comprèn la tria que hi ha al darrere. Descobreix models i tècniques de vídeo en aquest curs. Crea i expressa’t mirant a través de la càmera.
+
+###Síl·labus del curs
+
+* El microreportatge
+	* Una visió general de les decisions prèvies: el tema, el tipus, l’estil i l’estructura bàsica del teu vídeo
+* La gravació
+	* Coneix els dispositius de gravació i aprèn les tècniques de filmació (plans, moviments de càmera, angulació i distància focal)
+* L’edició i el muntatge
+	* Proposta de programes d’edició i indicacions per al muntatge (transicions, àudio i crèdits)
+* La publicació a la xarxa
+	* Opcions per publicar el teu vídeo a la xarxa
+
+### Prerequisits del curs
+
+* Tenir un dispositiu de gravació i un ordinador.
+
+###Dedicació horària
+
+15 hores
+
+### Elaborat per
+
+* Xavier Belanche 
+* Catina Bujosa
+* Mireia Manresa
+
+##Inspira’t##
+
+Un microreportatge és un vídeo breu que explica un esdeveniment. Ens proposarem gravar un vídeo d’un minut.
+
+Aquí en tens alguns exemples:
+
+*Habitatge protegit* 
+<iframe src="http://player.vimeo.com/video/54433803?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+
+*Moments de la gravació d'un disc*
+<iframe width="420" height="315" src="http://www.youtube.com/embed/uF5wiSQSRIE" frameborder="0" allowfullscreen></iframe>
+
+*Els dracs de Barcelona*
+<iframe src="http://player.vimeo.com/video/54433805?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="500" height="367" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+Per fer un microreportatge cal planificar, gravar i editar. El material gravat en brut s’ha de organitzar, seleccionar, tallar, per tal de donar-li la durada, el significat i el to que hagis decidit. Si donéssim a cinc persones diferents el mateix material per editar un vídeo de 5 minuts, obtindríem 5 vídeos ben diferents.
+
+(FUTUR: POSSIBLE RECURS VISUAL: MOTS O IMATGES DESORDENATS QUE S’ORDENEN)
+
+##Tria un tema##
+
+En un microreportatge s’hi pot tractar qualsevol tema d’interès, des d’assumptes d’actualitat política o cultural fins a qualsevol aspecte de la vida quotidiana.
+
+Triar el tema és la primera decisió a prendre. Pensa en allò que fas, que t’agrada, que t’apassiona, que t’interessa o que et diverteix i que creus que pots explicat en imatges.
+
+Aquestes categories et poden orientar
+
+* Coses que faig i vull mostrar
+	* un dia especial o una activitat personal interessant
+	* tasques de voluntariat o associatives
+	* una habilitat personal
+* Fets i anècdotes quotidians que val la pena explicar
+	* temes de denúncia
+	* persones properes que fan coses originals o interesants
+* Esdeveniments de l’actualitat que m’interessen
+	* esdeveniments cultural 
+	* fets socials rellevants 
+
+
+##Comença a acotar##
+
+Un cop has triat el tema, cal que elaboris una llista amb preguntes que et serviran de punt de partida. T’ajudaran a centrar el tema i et premetran acotar i decidir què mostraràs en el teu microreportatge.
+
+Mira’t aquest vídeo i pensa en quines decisions ha pres l’autor abans de começar a gravar-lo.
+
+*Breu reportatge sobre graffiti*
+<iframe width="420" height="315" src="http://www.youtube.com/embed/YIXrrM5mpIw" frameborder="0" allowfullscreen></iframe>
+
+Aquesta podria ser la llista de preguntes prèvies per fer una planificació adequada del reportatge:
+
+1. Preguntes sobre el focus d’interès:
+	* Què són els graffitis?
+	* Quines són les motivacions dels graffiters?
+	* Hi ha diferents tipus de graffitis? 
+	* Què en penso jo? 
+	* Quina és la polèmica al voltant dels graffitis? Art o incivisme?
+
+2. Preguntes sobre aspectes clau a preveure:
+	* On en puc trobar? 
+	* Puc posar-me en contacte amb un graffiter per gravar-lo mentre pinta? 
+	* Què en pensen els ciutadans?
+
+F1 **Atura’t i reflexiona** en el fòrum sobre les primeres decisions que has pres, formula dubtes que t’han sorgit fins aquí, ajuda els companys que no trobin tema i proposa idees.
+
+##Decideix el tipus de reportatge i tria un estil##
+
+El reportatge té una funció bàsicament informativa, pretén representar i documentar una realitat concreta. Però aquesta tasca es pot mostrar de diverses maneres segons el tipus de participació que té l'autor del vídeo en els fets que es mostren. 
+
+Mira’t aquests vídeos i intenta veure-hi les diferències principals segons la intervenció del creador de cadascun. 
+
+*Economia solidària*
+<iframe src="http://player.vimeo.com/video/52317056?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+
+
+*Concert in the Park*
+<iframe src="http://player.vimeo.com/video/13597593?
+title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="400" height="225" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/13597593">Concert In The Park</a> from <a href="http://vimeo.com/themichaelpaul">Michael Paul</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+*Veriueu-ho, [Xavi Castillo](http://www.potdeplom.com/)*
+<iframe src="http://player.vimeo.com/video/53464851?color=cccccc" width="400" height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+Com has pogut observar, cadascun dels vídeos mostra la realitat de maneres diferents: 
+
+* En el primer, el seu creador es dirigeix a l'espectador a través de la veu en off (també ho podria fer amb textos inserits). Per tant, l'autor es converteix en narrador dels fets. Les imatges, en aquest cas, serveixen per documentar allò que s'hi explica. Inclou entrevistes breus als protagonistes, preses que descriuen l’espai (el carrer, una plaça, un mercat, etc.) i so d’ambient amb l’objectiu que l’espectador comprengui bé el fet. Aquest tipus de reportatge s'anomena **expositiu**.
+* En el segon, l'autor no intervé directament en les imatges; és a dir, adopta el paper d'observador discret i mostra els fets que tenen lloc davant de la càmera. No inclou entrevistes als personatges que apareixen en les imatges. Aquest tipus de reportatge s'anomena **d'observació**. 
+* I en el tercer, en canvi, l'autor apareix en les imatges i participa per expressar els seus punts de vista o opinions. En aquests tipus de reportatge, que s'anomena **participatiu**, l’autor esdevé protagonista o bé guia del tema que s'hi exposa. A més, interactua amb les persones que hi apareixen. 
+
+Amb tot, un reportatge pot incloure característiques de més d’un d’aquests tipus. 
+
+Però no només s’ha de decidir què expliquem sinó com volem presentar el fets, les imatges, el so i les idees.  S’ha de triar l’estil que millor s’adeqüi al projecte. 
+
+Observa les imatges extretes de les diferents tipologies de vídeo. Reflexiona sobre la seva composició i el seu estil. Mostren intencionalitats diferents?
+
+![1](img/1iv.jpeg)
+![2](img/2iv.jpeg)
+![3](img/3iv.jpeg)
+
+* El vídeo expositiu té un estil sobri perquè pretén mostrar els fets de manera directa i objectiva. 
+* En el vídeo d’observació s’han pres decisions tècniques i estètiques (la llum natural de capvespre, els primers plans i la música) que li confereixen un to poètic.  
+* En el vídeo participatiu prima l’aspecte crític i la participació directa de l’autor.
+
+ En tots tres casos l’estil complementa el tema i la intencionalitat del reportatge.
+
+
+##Planifica i ordena l’estructura bàsica del reportatge##
+
+Elaborar un petit pla d’acció abans de gravar pot resultar molt útil. Planifica el teu reportatge, escriu notes o fes un senzill esquema visual del teu projecte. Preveu si has d’entrevistar persones, tria les localitzacions, pensa en els plans que mostraràs, etc. Elabora un petit guió que et permetrà construir de manera coherent el teu microreportatge.
+
+Mira aquest vídeo i fixa't en el fil conductor que segueix. Et fem una breu anàlisi de la seva estructura perquè vegis els aspectes que pots preveure abans de començar la gravació del reportatge:
+
+1. Ubica en el context
+2. Presenta l’acte
+3. Mostra testimonis
+4. Mostra imatges que il·lustren la dinàmica del projecte que es presenta (les parelles lingüístiques)
+5. Ofereix dades objectives que concreten
+6. Alterna testimonis segons el tema de què parlen
+7. Conclou retornant a l’acte que emmarca el reportatge
+
+(FUTUR: POSSIBLE GRÀFIC EN FORMA CIRCULAR QUE MOSTRI L’ESTRUCTURA DEL VÍDEO)
+
+<iframe src="http://player.vimeo.com/video/54433804?title=0&amp;byline=0&amp;portrait=0&amp;badge=0" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> 
+
+##Amb què gravo##
+
+Actualment existeixen múltiples dispositius per gravar: 
+
+* la càmera de vídeo
+* la càmera fotogràfica
+* el telèfon mòbil
+* la tauleta
+* la webcam
+
+(GRÀFIC: ICONES DELS DISPOSITIUS)
+
+La immediatesa és una de les característiques de la gravació de vídeo des de dispostius mòbils, es poden obtenir imatges espontànies de fets que es produeixen sobtadament i que tenen valor testimonial. Amb tot, per obtenir un bon reportatge audivisual sempre cal fer una petita planificació.
+
+Recomanacions:
+
+* Assegura’t de no tapar la lent i el micròfon amb els dits
+* Procura que el focus de llum estigui darrera teu
+* Si graves amb el mòbil, orienta’l de manera horitzontal (mai vertical). Has sentit a parlar del Síndrome del Vídeo Vertical (VVS en anglès)? És aquell que afecta alguns usuaris de dispositius amb càmera i que els porta a fer vídeos en composició vertical. Mira aquest vídeo; a més de fer-te somriure, t’ajudarà a comprendre les raons per les quals és millor mantenir el dispositiu en posició horitzontal
+
+
+(POSSIBLE FUTUR imatges: galeria imatges d’una persona agafant el mòbil correctament per enregistrar - captures estan fetes a IMG)
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Bt9zSfinwFA" frameborder="0" allowfullscreen></iframe>
+*Vertical Video Syndrome*Gloove and Boots, 2012
+
+
+FG **Aprèn en col·laboració** Recorda que pots utilitzar el fòrum general tant per preguntar als companys com per ajudar-los en els seus dubtes i problemes. Es tracta que entre tots us en sortiu. 
+
+##Grava: el pla i la seqüència##
+Gravar no consisteix només a prémer el PLAY del dispositiu. El vídeo final del microreportatge no és producte de la gravació directa i continuada dels fets que s'hi mostren, sinó que sorgeix d'un procés de planificació, selecció i edició de les imatges en brut de què disposem. Per això, conèixer algunes de les tècniques bàsiques de filmació et pot ajudar a saber relacionar allò que vols explicar amb com ho vols mostrar. 
+
+En primer lloc, descobriràs què és un pla i una seqüència: 
+
+El **pla** com a unitat de presa és el conjunt d'imatges que es graven de manera continuada. És a dir, un pla és el conjunt d'imatges resultants des que es prem el disparador de la càmera fins que es prem l'Stop. 
+
+Mira’t aquest vídeo i descobreix-hi els 5 plans a partir dels quals està construït: 
+
+*That was a pretty good day*
+<iframe src="http://player.vimeo.com/video/34819284?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/34819284">That was a Pretty Good Day</a> from <a href="http://vimeo.com/user3351553">Leif Enger</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+La **seqüència** és el conjunt de plans que formen una unitat de contingut, és a dir, que es relacionen entre ells en l'espai i en el temps. 
+
+Veus la seqüència que hi ha en aquest vídeo? 
+
+*5x5 Juicing*
+<iframe src="http://player.vimeo.com/video/34851847?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/34851847">5x5 Juicing</a> from <a href="http://vimeo.com/honeydesign">Rina Miele</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+Si bé també està construït a partir de 5 plans, en aquest s'estableix una relació entre ells que no hi ha en el vídeo anterior. 
+
+El **pla seqüència** es refereix a una seqüència que es realitza en un sol pla. Mira aquest exemple d'un dels plans seqüència més llargs de la història del cinema:
+
+*Touch of Evil* (coneguda en castellà com *Sed de mal*. 1958. Orson Welles)
+<iframe width="560" height="315" src="http://www.youtube.com/embed/E8AXd1ayxrg" frameborder="0" allowfullscreen></iframe>
+
+##Grava: els tipus de plans##
+
+També es parla de pla com a tipus d'enquadrament, és a dir, segons com es disposa la càmera respecte de l'objecte filmat. Existeixen diferents plans segons l'apropament o allunyament de la càmera a la realitat que s'està gravant. Els tipus de plans més comuns són: 
+
+* Pla visió general
+* Pla general
+* Pla americà
+* Pla mitjà
+* Primer pla
+* Primeríssim primer pla
+* Pla detall
+
+Per a què creus que et serveix cadascun d'aquests tipus de plans? Què permet mostrar un primer pla, per exemple, en contraposició a un pla americà?
+
+Pots veure els plans exemplificats en el primer minut d'aquest vídeo
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/fPquWYLThnA" frameborder="0" allowfullscreen></iframe>
+
+F2 **Atura’t i practica**  Ara intenta pensar com explicaries en 5 plans algun fet que forma part de la teva vida quotidiana i decideix quin tipus de plans serien i amb quina tècnica els gravaries. Per exemple, pots pensar a mostrar en imatges el moment de llevar-te al matí
+
+##Grava: els moviments de càmera i l'angulació##
+
+Què pots fer amb la càmera per reflectir diferents realitats?
+
+Una manera de gravar és mantenint la càmera fixa sobre un suport de manera que s'enregistri tot el que passa pel davant de l'objectiu. 
+
+Ara bé, quan la càmera no està fixa, els dos tipus de **moviments de càmera** més comuns són els següents: 
+
+* Panoràmica: és el gir de la càmera sobre el seu propi eix. El gir pot ser horitzontal, vertical o oblicu. Es fa servir per descriure un escenari o bé per relacionar elements de la mateixa escena però que no apareixen al mateix enquadrament. 
+
+En el principi de la  pel·lícula *La finestra indiscreta* (*Rear window*. 1954. Alfred Hitchcock) pots veure-hi unes quantes panoràmiques diferents: 
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Kd8reeAmifI" frameborder="0" allowfullscreen></iframe>
+
+* Tràveling (*travelling* en anglès): és un moviment que desplaça la càmera d'un lloc a un altre (en el cinema s'utilitzen raïls). El tràveling pot ser lateral o frontal. 
+
+Aquí tens un dels tràvelings més coneguts de la història del cinema: pots distingir-hi un tràveling lateral i un de frontal?
+
+*Perseguit per la mort* (*North by Northwest*. 1959. Alfred Hitchcock)
+
+<iframe width="640" height="360" src="http://www.youtube.com/embed/wJQwckiV7DI?feature=player_embedded" frameborder="0" allowfullscreen></iframe>
+
+
+**Distància focal**
+
+* zoom: permet ampliar o reduir les dimensions del subjecte o de l'objecte sense moure la càmera.
+
+Mira’t aquest vídeo i descobreix-hi un zoom
+
+
+<iframe src="http://player.vimeo.com/video/34857765?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/34857765">5x5 - Coffee</a> from <a href="http://vimeo.com/dustfilm">Roberto Achenza</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+Recomanacions:
+
+* Fes els moviments de càmera de manera suau i uniforme, sense brusquedats ni interrupcions. 
+* Si graves amb un mòbil o càmera fotogràfica procura acostar-te al subjecte en lloc d'ulilitzar el zoom. 
+* Després de fer un moviment de càmera no facis el moviment invers; per exemple, no es pot fer una panoràmica de dreta a esquerra després d'haver-ne fet una d'esquerra a dreta. 
+* Evita els moviments dubitatius o poc precisos. Fan la impressió d'un error de qui maneja la càmera. 
+
+**Angulació**: és el punt de vista des del qual es grava un objecte
+
+* Angle normal: l'eix de la càmera és perpendicular al rostre del personatge.
+* Angle en picat: és quan es filma de dalt cap a baix. Serveix per disminuir l'objecte o subjecte filmat. 
+* Angle en contrapicat: és quan es filma de baix a dalt. El subjecte o l'objecte filmat queda potenciat, engrandit. 
+
+Mira’t aquest vídeo sobre Nova York i distingeix-hi les diferents tècniques de filmació que s'hi utilitzen: 
+
+<iframe src="http://player.vimeo.com/video/2910103?badge=0" width="500" height="363" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/2910103">New York</a> from <a href="http://vimeo.com/user1128030">Vicente Sahuc</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+
+**Amplia** Si hi tens interès , pots aprofundir en [el llenguatge cinematogràfic](http://llenguatgecinematografic.wordpress.com/muntatge/)</p>
+
+
+F3 **Atura’t i practica**. Basant-te en el tema que has triat per al teu reportatge, explica com començarà i quins tipus de plans utilitzaràs durant els primers segons (pots explicar-ho per escrit, en dibuixos o en imatges gravades)
+
+
+##Edita: programari i formats d'edició##
+
+Editar consisteix a guardar, triar i manipular els vídeos que hem enregistrat. Existeixen molts programes d’edició de vídeo. El seu funcionament és força intuïtiu i permet obtenir bons resultats en poc temps. 
+ 
+A continuació se’t dóna una llista dels editors de vídeo més utilitzats, tots ells gratuïts:
+
+* [Avidemux](http://avidemux.sourceforge.net/): és un programa de codi obert lliure.
+* [Windows Movie Maker](http://windows-live-movie-maker.softonic.com/descargar) és l’editor de vídeo de Microsoft i pots consultar més informació a la pàgina de [Windows](http://windows.microsoft.com/es-ES/windows7/products/features/movie-maker)
+* [iMovie](http://www.apple.com/es/support/imovie/) és l’editor de vídeo d’Apple.
+* [Openshot](http://www.openshot.org/download/) per a Linux.
+
+(GRAFIC: QUE MOSTRI LES 3 ZONES DELS EDITORS, TIPUS MOCKUP)
+
+Anatomia d’un editor de vídeo
+
+Generalment tots els editors de vídeo es divideixen en tres zones de treball:
+
+* Material sense editar: que pot contenir arxius de vídeo, fotografies o música.
+* Visionat del material: on pots tallar i seleccionar fragments concrets dels teus arxius. 
+* Línia del temps: on ordenes els fragments i els sons segons la teva planificació.
+
+FÒRUM GENERAL Aprèn en col·laboració: recorda que pots demanar consells als teus companys sobre els editors de vídeo i el seu funcionament.
+
+##Edita: transicions i efectes##
+
+Muntar un vídeo consisteix a ordenar i enllaçar les imatges. Així com en un text escrit s’utilizen els signes de puntuació, en una narració àudiovisual s’incorporen transicions i efectes que contribueixen a fer-la més fluida. En el moment de muntar és fonamental mantenir la continuïtat o raccord (d’acció, de moviment, etc.) per tal que el resultat resulti coherent i natural.
+
+Per connectar els diferents plans i escenes podem utilitzar, entre molts altres, els efectes següents:
+
+* fos a negre: la imatge es disol i el pla s’enfosqueix fins que la pantalla queda en negre. Pot indicar que hi ha un salt de temps llarg entre una escena i la posterior.
+* tall en sec o directe: indica que les escenes són consecutives, sense salts de temps entre elles i produeix un efecte de dinamisme.
+* encadenament: indica que el que es mostra en l’escena següent és el final de l’escena que la precedeix, la imatge es difumina lentament i la nova va apareixent progressivament. Provoca un efecte més pausat.
+* cortineta:  consisteix en la utilització de formes geomètriques (una ratlla vertical, un cercle, estrelles, etc) per passar d’una imatge a l’altra. La cortineta pot resultar artificiosa i s’ha d’utilitzar amb moderació.
+
+Observa les transicions en aquest vídeo: 
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/kNMitjbU8JI" frameborder="0" allowfullscreen></iframe>
+**Transicions, Mónica Tudela, Gadwoman*
+
+Recomanacions:
+
+* Les transicions i efectes donen fluïdesa al vídeo.
+* Un simple fos o una cortineta poden fer que el teu vídeo sigui més brillant.
+* No posis transicions i efectes a cada presa, resulten molt pesats.
+* No els afegeixis perquè sí, utilitza’ls quan ho consideris apropiat sense abusar-ne.
+* Respecta la continuïtat o raccord entre les preses per evitar incoherències.
+* Grava cinc segons addicionals més d’allò que vols captar, així disposaràs de més marge a l’hora d’editar.
+
+Mira aquest vídeo on hi trobaràs alguns exemples de les diverses transicions i tècniques de gravació que has vist fins ara:
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/H1cxADIK9YQ" frameborder="0" allowfullscreen></iframe>
+
+##Enriqueix les teves imatges: l'àudio##
+
+El so és un element clau en l’edició d’un vídeo. Un vídeo no és un text imprès, així doncs fes que sigui dinàmic: incorpora-hi so partint de la base de la planificació que has previst. L’ús d’efectes sonors i música contribueix a realçar el missatge visual i hi afegeix expressivitat i emoció.
+
+* La música: músiques diferents expressen intencionalitats, sensacions, emocions, tons i estats d’ànim diferents en una escena: angoixa, felicitat, suspens, amor, tristesa, etc. 
+
+La famosa escena de la pel·lícula de suspens Psicosi (*Psycho*. 1960. Alfred Hitchcock) no resulta tan aterridora sense la música que l’acompanya. Comprova-ho:
+
+ <iframe width="420" height="315" src="http://www.youtube.com/embed/81qweiWqyTU" frameborder="0" allowfullscreen></iframe>
+
+Ara compara l’escena inicial de la pel·lícula *Jaws*, coneguda com *Tiburón*  (1975. Steven Spielberg). En el primer vídeo, la partitura original anticipa l’amenaça i en el segon, en contrast, s’acompanya d’un tema musical de to ben diferent. Estàs d’acord que l’efecte no és el mateix, oi? 
+
+*Jaws, tema musical original John Williams* (Steven Spielberg. 1975)
+<iframe width="560" height="315" src="http://www.youtube.com/embed/yrEvK-tv5OI" frameborder="0" allowfullscreen></iframe>
+
+*Jaws, tema musical no original*
+<iframe src="http://player.vimeo.com/video/53063994?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/53063994">Jaws. La música es la amenaza.</a> from <a href="http://vimeo.com/user3568124">Porlas Matron</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+Recomanacions:
+
+* Edita les preses rellevants i afegeix efectes sonors o música.
+* Tingues en compte el soroll d’ambient: evita sorolls indesitjats, massa forts o que tapin el que es diu. 
+* Vigila amb la teva veu o la de les persones que t’acompanyin en el moment de gravar.
+
+Per afegir sons i música al teu vídeo és recomanable que ho facis de manera legal. Pots trobar recursos sonors lliures i oberts en els llocs següents:
+
+* A [Freesound](http://freesound.org/browse/) i [SoundCloud](http://soundcloud.com/) hi pots trobar sons, no música.
+* [Jamendo]( http://www.jamendo.com/es) i [FreeMusicArchive FMA](http://freemusicarchive.org/) t’ofereixen música i cançons de descàrrega legal.
+
+(POSAR ICONES: Freesound, soundcloud, jamento, freemusicarchive)
+
+FG **Aprèn en col·laboració**. Recorda que pots col·laborar amb els companys en el fòrum general per demanar consells sobre la música adequada per al teu reportatge i ajudar els altres a trobar-ne.
+
+
+F4 **Atura’t i comparteix**. Troba i comparteix al fòrum escenes memorables des de la mirada de l’expert: primers plans, moments de tensió dramàtica, moviments de càmera, transicions impactants, etc. i digues per què t’agraden
+
+##Signa el reportatge: títols i crèdits##
+
+El títols i els crèdits són molt més que lletres. Podem jugar amb la tipografia i els colors, de manera que el títol i els crèdits afegeixin personalitat al vídeo. Poden ser austers, senzills, divertits o sofisticats però en tots els casos aporten significat. Els elements tipogràfics poden reforçar el tema del reportatge.
+
+Recomanacions:
+
+* Afegeix text al teu vídeo: posa-hi un títol al principi i els crèdits al final.
+* Si ho consideres necessari pots complementar les imatges amb text al peu.
+* Personalitza els textos: juga amb el color, la mida i la font. 
+
+Aquí tens un vídeo que mostra títols captivadors de grans pel·lícules de la història del cinema que contribueixen a situar l’espectador davant l’obra que veurà: 
+
+*A Brief History of Title Design*
+
+<iframe src="http://player.vimeo.com/video/20759580?portrait=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/20759580">A Brief History of Title Design</a> from <a href="http://vimeo.com/ianalbinson">Ian Albinson</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
+
+##Publica el reportatge a la xarxa ##
+
+Un cop hagis finalitzat el teu vídeo pots compartir-lo a la xarxa.
+
+* [YouTube](http://www.youtube.com/) és el servei més popular.  Si ho desitges, t’hi pots registrar, crear el teu canal i decidir que el teu vídeo sigui públic o privat.
+* Una altra opció és [Vimeo](https://vimeo.com/). Els vídeos d’aquesta plataforma acostumen a tenir un toc artístic. Fes un cop d’ull als projectes que proposa la seva comunitat d’usuaris: [5x5 Project](https://vimeo.com/categories/vimeoprojects/5x5) són vídeos fets amb 5 plans  i [1 minute Project](https://vimeo.com/groups/1minute) aplega vídeos d’1 minut sense plans ni edició. 
+
+Si el teu vídeo és públic el pots compartir amb els teus amics, coneguts i seguidors a [Twitter](https://twitter.com/) i a [Facebook](http://www.facebook.com/).
+
+(POSAR LES ICONES DEL LLOCS: youtube, vimeo, twitter, facebook)
+
+F5 **Atura’t i comparteix** Ofereix la URL del teu projecte en el fòrum i si vols comenta el d’algun company.
+
+##Projecte
+
+El projecte del curs consisteix a gravar un microreportatge.  
+
+Què ha d’incloure el teu microreportatge?
+
+1. Durada: entre 1 i 2 minuts
+2. Grava el material i edita’l: inclou entre 3 i 5 tipus de plans diferents i alguna transició.
+2. Afegeix música en alguna de les parts del vídeo.
+3. Inclou un títol i els crèdits.
+
+
+**Alerta:**  (WEB: AQUEST TÍTOL HAURIA D'ANAR AMB EL MATEIX COS I ESTIL QUE TÉ A LA WEB EL TÍTOL "QUÈ HA D'INCLOURE EL TEU MICROREPORTATGE?)
+
+* No són vàlids vídeos construïts únicament amb imatges estàtiques, és a dir, amb fotografia. 
+* És imprescindible, per tant, haver gravat imatges en vídeo i haver-les editat. 
+* Quan comparteixis la URL del teu vídeo has d'incloure-hi els motius pels quals l'has fet. 
+
+Et suggerim algunes qüestions que has de tenir presents abans de començar l’enregistrament del teu microreportatge:
+
+* Valorarem la teva implicació en el procés de treball, per tant tria algun tema que tinguis moltes ganes d'explicar.
+* Tria un tema i acota allò que vols que mostri el teu microreportatge.
+* Tria un estil.
+* Planifica prèviament una estructura bàsica.
+* Decideix quins tipus de plans, moviments de càmera i transicions hi inclouràs.
+* Busca una música que pugui acompanyar alguna part del teu microreportatge.
+* Afegeix un títol i els crèdits.
+
+
+Utilitza qualsevol dispositiu de gravació i fes tranquil·lament allò que vols mostrar. No es tracta de fer una gran obra, sinó d’experimentar amb tot el que has anat aprenent al llarg del miniOP i de mostrar-hi la teva implicació.
+
+
+
+
+
+
+
+
+
